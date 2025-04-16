@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="512" height="512" viewBox="0 0 512 512" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="512" height="512" rx="128" fill="#1A1A1F"/>
+  
+  <!-- Clover design -->
+  <g transform="translate(56, 56) scale(0.78)">
+    <!-- Top leaf -->
+    <path d="M256 50C310 50 350 90 350 144C350 198 310 238 256 238C202 238 162 198 162 144C162 90 202 50 256 50Z" fill="#4CAF50"/>
+    
+    <!-- Right leaf -->
+    <path d="M350 144C350 198 390 238 444 238C498 238 538 198 538 144C538 90 498 50 444 50C390 50 350 90 350 144Z" fill="#43A047"/>
+    
+    <!-- Bottom leaf -->
+    <path d="M256 238C310 238 350 278 350 332C350 386 310 426 256 426C202 426 162 386 162 332C162 278 202 238 256 238Z" fill="#388E3C"/>
+    
+    <!-- Left leaf -->
+    <path d="M162 144C162 198 122 238 68 238C14 238 -26 198 -26 144C-26 90 14 50 68 50C122 50 162 90 162 144Z" fill="#2E7D32"/>
+    
+    <!-- Center circle -->
+    <circle cx="256" cy="144" r="35" fill="#1A1A1F"/>
+    <circle cx="256" cy="144" r="25" fill="#81C784"/>
+  </g>
+  
+  <!-- Stem -->
+  <path d="M261 330L261 410" stroke="#2E7D32" stroke-width="12" stroke-linecap="round"/>
+</svg>
