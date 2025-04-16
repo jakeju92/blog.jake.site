@@ -4,7 +4,7 @@ date: 2025-04-16
 layout: page
 ---
 
-<img src="/images/avatar.png" alt="Avatar" style="border-radius: 50%; width: 88px; height: 88px; object-fit: cover;">
+<img src="../images/avatar.png" alt="Avatar" style="border-radius: 50%; width: 88px; height: 88px; object-fit: cover;">
 
 ## About Me
 
